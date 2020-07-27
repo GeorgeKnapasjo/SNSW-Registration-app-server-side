@@ -1,0 +1,35 @@
+[
+    {
+        "licenceNumber": "8f0a33d3-4478-40a2-95bc-1c05eee1e4ce",
+        "vinNumber": "2b72ead4-5ec2-4a9a-b988-cc51c3d97f5a",
+        "vehicle": {
+            "manufactureYear": 2012,
+            "make": "Toyota",
+            "model": "Camry",
+            "shape": "Sedan",
+            "weight": 1420
+        }
+    },
+    {
+        "licenceNumber": "8f0a33d3-4478-40a2-95bc-1c05eee1e4ce",
+        "vinNumber": "66ac3e0e-6480-4c4b-bd98-b2cef2b66e22",
+        "vehicle": {
+            "manufactureYear": 2007,
+            "make": "Holden",
+            "model": "Astra",
+            "shape": "Sedan",
+            "weight": 1203
+        }
+    },
+    {
+        "licenceNumber": "e966df55-6bc4-4986-b8a6-db523a6150e0",
+        "vinNumber": "30cefaf3-ad39-401f-9d11-c5aea96b215d",
+        "vehicle": {
+            "manufactureYear": 2014,
+            "make": "Mazda",
+            "model": "3",
+            "shape": "Sedan",
+            "weight": 1296
+        }
+    }
+]
